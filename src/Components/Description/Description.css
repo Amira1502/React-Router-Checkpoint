@@ -1,0 +1,16 @@
+.movieCard{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width : 45rem;
+    margin: 2% 20%;
+    padding: 2%;
+    border: 1px solid ;
+    box-shadow: 0 1px 20px 0 rgba(69, 90, 100, 0.08);
+}
+.photo{
+    width:12rem;
+    height: 15rem;
+    border-bottom: white solid 0.5px;
+}
